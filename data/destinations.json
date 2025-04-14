@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Bali",
+      "country": "Indonesia",
+      "type": "beach",
+      "region": "Asia",
+      "budget_level": "medium",
+      "keywords": ["luxury", "honeymoon", "spa", "yoga"],
+      "ideal_duration": [7, 14],
+      "best_seasons": ["May", "June", "September"]
+    },
+    {
+      "name": "Paris",
+      "country": "France",
+      "type": "city",
+      "region": "Europe",
+      "budget_level": "high",
+      "keywords": ["romantic", "culture", "food", "art"],
+      "ideal_duration": [3, 7],
+      "best_seasons": ["April", "May", "September", "October"]
+    },
+    {
+      "name": "Tokyo",
+      "country": "Japan",
+      "type": "city",
+      "region": "Asia",
+      "budget_level": "high",
+      "keywords": ["technology", "culture", "food", "business"],
+      "ideal_duration": [5, 10],
+      "best_seasons": ["March", "April", "October", "November"]
+    },
+    {
+      "name": "Santorini",
+      "country": "Greece",
+      "type": "beach",
+      "region": "Europe",
+      "budget_level": "high",
+      "keywords": ["romantic", "honeymoon", "views", "photography"],
+      "ideal_duration": [3, 5],
+      "best_seasons": ["June", "July", "August", "September"]
+    }
+  ]
